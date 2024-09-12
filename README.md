@@ -21,6 +21,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AllenPaul-2005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AllenPaul-2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ LeetCode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AllenPaul-2005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AllenPaul-2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
@@ -76,5 +78,6 @@ LeetCode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
