@@ -1,20 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int n = nums.size();
-        for (int i = 0; i < n; ++i) {
-            int count = 0;
-            for (int j = 0; j < n; ++j) {
-                if (nums[i] == nums[j]) {
-                count++;
-            }
+        int n=nums.size();
+        int res=0;
+        for(int i=0;i<n;i++){
+            res^=nums[i];
         }
-            if (count == 1) {
-                return nums[i];
-        }
-    }
-    return -1; // This line will never be reached.
-}
+        return res;
         
-    
+    }
 };
