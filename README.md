@@ -28,6 +28,7 @@ LeetCode Solutions
 | [0229-majority-element-ii](https://github.com/AllenPaul-2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
 | [0909-stone-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0909-stone-game) |
 ## Matrix
 |  |
@@ -57,6 +58,7 @@ LeetCode Solutions
 | ------- |
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +76,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AllenPaul-2005/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -88,4 +91,20 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AllenPaul-2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
