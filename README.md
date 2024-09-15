@@ -20,6 +20,7 @@ LeetCode Solutions
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/AllenPaul-2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -41,6 +42,7 @@ LeetCode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0909-stone-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
@@ -85,6 +87,7 @@ LeetCode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Union Find
@@ -107,4 +110,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
