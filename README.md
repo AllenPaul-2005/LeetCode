@@ -11,6 +11,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AllenPaul-2005/LeetCode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
 | [0804-rotated-digits](https://github.com/AllenPaul-2005/LeetCode/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0909-stone-game) |
@@ -49,6 +50,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/AllenPaul-2005/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0804-rotated-digits](https://github.com/AllenPaul-2005/LeetCode/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0909-stone-game) |
@@ -148,4 +150,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
