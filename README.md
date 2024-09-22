@@ -27,6 +27,7 @@ LeetCode Solutions
 | [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AllenPaul-2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AllenPaul-2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AllenPaul-2005/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -53,6 +54,7 @@ LeetCode Solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AllenPaul-2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AllenPaul-2005/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AllenPaul-2005/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AllenPaul-2005/LeetCode/tree/master/0213-house-robber-ii) |
