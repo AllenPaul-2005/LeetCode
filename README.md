@@ -70,6 +70,7 @@ LeetCode Solutions
 | [0128-longest-consecutive-sequence](https://github.com/AllenPaul-2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AllenPaul-2005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AllenPaul-2005/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AllenPaul-2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@ LeetCode Solutions
 | [0169-majority-element](https://github.com/AllenPaul-2005/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AllenPaul-2005/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AllenPaul-2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -148,6 +150,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/AllenPaul-2005/LeetCode/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
