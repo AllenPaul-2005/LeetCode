@@ -141,6 +141,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -149,11 +150,13 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0011-container-with-most-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AllenPaul-2005/LeetCode/tree/master/0242-valid-anagram) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
