@@ -42,6 +42,7 @@ LeetCode Solutions
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
 | [0909-stone-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0909-stone-game) |
+| [1002-maximum-width-ramp](https://github.com/AllenPaul-2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Matrix
 |  |
 | ------- |
@@ -142,10 +143,12 @@ LeetCode Solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/AllenPaul-2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1002-maximum-width-ramp](https://github.com/AllenPaul-2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Greedy
 |  |
 | ------- |
