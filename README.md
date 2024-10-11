@@ -157,6 +157,7 @@ LeetCode Solutions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AllenPaul-2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -172,4 +173,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
