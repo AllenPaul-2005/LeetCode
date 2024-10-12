@@ -43,6 +43,7 @@ LeetCode Solutions
 | [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
 | [0909-stone-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0909-stone-game) |
 | [1002-maximum-width-ramp](https://github.com/AllenPaul-2005/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
 |  |
 | ------- |
@@ -98,6 +99,7 @@ LeetCode Solutions
 | [0229-majority-element-ii](https://github.com/AllenPaul-2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AllenPaul-2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +120,7 @@ LeetCode Solutions
 | [0088-merge-sorted-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Union Find
 |  |
 | ------- |
@@ -154,6 +157,7 @@ LeetCode Solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -165,6 +169,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
 |  |
 | ------- |
@@ -177,4 +182,8 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
