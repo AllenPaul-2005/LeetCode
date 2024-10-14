@@ -45,6 +45,7 @@ LeetCode Solutions
 | [1002-maximum-width-ramp](https://github.com/AllenPaul-2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AllenPaul-2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/AllenPaul-2005/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -160,6 +161,7 @@ LeetCode Solutions
 | [0011-container-with-most-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/AllenPaul-2005/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## String
 |  |
 | ------- |
@@ -173,6 +175,7 @@ LeetCode Solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AllenPaul-2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/AllenPaul-2005/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Quickselect
 |  |
 | ------- |
