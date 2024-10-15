@@ -124,6 +124,7 @@ LeetCode Solutions
 | [0151-reverse-words-in-a-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/AllenPaul-2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Union Find
 |  |
 | ------- |
@@ -162,6 +163,7 @@ LeetCode Solutions
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AllenPaul-2005/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/AllenPaul-2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -169,6 +171,7 @@ LeetCode Solutions
 | [0151-reverse-words-in-a-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AllenPaul-2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3195-separate-black-and-white-balls](https://github.com/AllenPaul-2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
