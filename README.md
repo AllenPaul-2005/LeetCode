@@ -13,6 +13,7 @@ LeetCode Solutions
 | [0002-add-two-numbers](https://github.com/AllenPaul-2005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
+| [0670-maximum-swap](https://github.com/AllenPaul-2005/LeetCode/tree/master/0670-maximum-swap) |
 | [0804-rotated-digits](https://github.com/AllenPaul-2005/LeetCode/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0909-stone-game) |
 ## Recursion
@@ -160,6 +161,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0011-container-with-most-water) |
+| [0670-maximum-swap](https://github.com/AllenPaul-2005/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
