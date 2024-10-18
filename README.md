@@ -45,6 +45,7 @@ LeetCode Solutions
 | [0909-stone-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0909-stone-game) |
 | [1002-maximum-width-ramp](https://github.com/AllenPaul-2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AllenPaul-2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AllenPaul-2005/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AllenPaul-2005/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Matrix
@@ -93,6 +94,7 @@ LeetCode Solutions
 | [0136-single-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AllenPaul-2005/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -200,4 +202,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AllenPaul-2005/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AllenPaul-2005/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
