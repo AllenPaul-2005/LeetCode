@@ -96,6 +96,7 @@ LeetCode Solutions
 | [0136-single-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AllenPaul-2005/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AllenPaul-2005/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
 |  |
