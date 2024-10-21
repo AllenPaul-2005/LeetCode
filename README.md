@@ -82,6 +82,7 @@ LeetCode Solutions
 | [0229-majority-element-ii](https://github.com/AllenPaul-2005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AllenPaul-2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AllenPaul-2005/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AllenPaul-2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Binary Search
 |  |
@@ -181,6 +182,7 @@ LeetCode Solutions
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AllenPaul-2005/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/AllenPaul-2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
@@ -209,6 +211,7 @@ LeetCode Solutions
 ## Backtracking
 |  |
 | ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AllenPaul-2005/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AllenPaul-2005/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
