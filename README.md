@@ -43,6 +43,7 @@ LeetCode Solutions
 | [0268-missing-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
+| [0898-transpose-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0909-stone-game) |
 | [1002-maximum-width-ramp](https://github.com/AllenPaul-2005/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AllenPaul-2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -53,10 +54,12 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0898-transpose-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
 |  |
