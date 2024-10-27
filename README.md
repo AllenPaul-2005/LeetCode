@@ -24,6 +24,7 @@ LeetCode Solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AllenPaul-2005/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AllenPaul-2005/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -80,6 +81,7 @@ LeetCode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AllenPaul-2005/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AllenPaul-2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/AllenPaul-2005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AllenPaul-2005/LeetCode/tree/master/0169-majority-element) |
