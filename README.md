@@ -28,6 +28,7 @@ LeetCode Solutions
 | [0011-container-with-most-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AllenPaul-2005/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/AllenPaul-2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AllenPaul-2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/AllenPaul-2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AllenPaul-2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AllenPaul-2005/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -121,6 +123,7 @@ LeetCode Solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AllenPaul-2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AllenPaul-2005/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
