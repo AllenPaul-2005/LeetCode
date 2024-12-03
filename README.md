@@ -7,6 +7,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AllenPaul-2005/LeetCode/tree/master/0002-add-two-numbers) |
+| [0908-middle-of-the-linked-list](https://github.com/AllenPaul-2005/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +142,7 @@ LeetCode Solutions
 | [0088-merge-sorted-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/AllenPaul-2005/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/AllenPaul-2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Union Find
