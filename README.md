@@ -9,6 +9,7 @@ LeetCode Solutions
 | [0002-add-two-numbers](https://github.com/AllenPaul-2005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/AllenPaul-2005/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/AllenPaul-2005/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AllenPaul-2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +147,7 @@ LeetCode Solutions
 | [0151-reverse-words-in-a-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/AllenPaul-2005/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AllenPaul-2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/AllenPaul-2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Union Find
@@ -174,6 +176,7 @@ LeetCode Solutions
 | [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/AllenPaul-2005/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AllenPaul-2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
