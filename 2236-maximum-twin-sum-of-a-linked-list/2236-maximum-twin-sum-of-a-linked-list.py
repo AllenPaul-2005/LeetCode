@@ -14,7 +14,7 @@ class Solution:
             prev=slow
             slow=tmp
         res=0
-        while slow:
+        while slow and prev:
             res=max(res,prev.val+slow.val)
             prev=prev.next
             slow=slow.next
