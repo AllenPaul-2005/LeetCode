@@ -246,14 +246,17 @@ LeetCode Solutions
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AllenPaul-2005/LeetCode/tree/master/0112-path-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AllenPaul-2005/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AllenPaul-2005/LeetCode/tree/master/0112-path-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AllenPaul-2005/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AllenPaul-2005/LeetCode/tree/master/0112-path-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AllenPaul-2005/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Sliding Window
 |  |
@@ -262,5 +265,6 @@ LeetCode Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AllenPaul-2005/LeetCode/tree/master/0112-path-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AllenPaul-2005/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
