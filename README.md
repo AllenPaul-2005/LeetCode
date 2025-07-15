@@ -34,6 +34,7 @@ LeetCode Solutions
 | [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AllenPaul-2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AllenPaul-2005/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AllenPaul-2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AllenPaul-2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@ LeetCode Solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AllenPaul-2005/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AllenPaul-2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AllenPaul-2005/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -190,6 +192,7 @@ LeetCode Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AllenPaul-2005/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0055-jump-game) |
 | [0670-maximum-swap](https://github.com/AllenPaul-2005/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AllenPaul-2005/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/1304-longest-happy-string) |
