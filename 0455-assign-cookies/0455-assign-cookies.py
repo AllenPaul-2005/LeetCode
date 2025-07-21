@@ -9,8 +9,6 @@ class Solution:
             if s[j]>=g[i]:
                 count+=1
                 i+=1
-                j+=1
-            else:
-                j+=1
-        return count
+            j+=1
+        return i
         
