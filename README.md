@@ -52,6 +52,7 @@ LeetCode Solutions
 | [0287-find-the-duplicate-number](https://github.com/AllenPaul-2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/AllenPaul-2005/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/AllenPaul-2005/LeetCode/tree/master/0493-reverse-pairs) |
+| [0724-find-pivot-index](https://github.com/AllenPaul-2005/LeetCode/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/AllenPaul-2005/LeetCode/tree/master/0909-stone-game) |
 | [1002-maximum-width-ramp](https://github.com/AllenPaul-2005/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -241,6 +242,7 @@ LeetCode Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AllenPaul-2005/LeetCode/tree/master/0724-find-pivot-index) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Backtracking
 |  |
