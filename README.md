@@ -60,6 +60,7 @@ LeetCode Solutions
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AllenPaul-2005/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AllenPaul-2005/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AllenPaul-2005/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AllenPaul-2005/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AllenPaul-2005/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Matrix
@@ -73,6 +74,7 @@ LeetCode Solutions
 | [0054-spiral-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/AllenPaul-2005/LeetCode/tree/master/0898-transpose-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AllenPaul-2005/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AllenPaul-2005/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +163,7 @@ LeetCode Solutions
 | [0455-assign-cookies](https://github.com/AllenPaul-2005/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/AllenPaul-2005/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AllenPaul-2005/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AllenPaul-2005/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AllenPaul-2005/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/AllenPaul-2005/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Union Find
